@@ -1,13 +1,13 @@
 {
-  "name": "dhas-video-mp4box",
+  "name": "dash-mp4box-sidx",
   "description": "",
-  "homepage": "https://github.com/samradical/dhas-video-mp4box",
+  "homepage": "https://github.com/samradical/dash-mp4box-sidx",
   "author": "Sam Elie <sam@add.dog>",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/samradical/dhas-video-mp4box.git",
-    "web": "https://github.com/samradical/dhas-video-mp4box/"
+    "url": "https://github.com/samradical/dash-mp4box-sidx.git",
+    "web": "https://github.com/samradical/dash-mp4box-sidx/"
   },
   "main": "index.js",
   "scripts": {},
@@ -23,10 +23,11 @@
   },
   "keywords": [
     "mp4box",
-    "dash"
+    "dash",
+    "sidx"
   ],
   "bugs": {
-    "url": "https://github.com/samradical/dhas-video-mp4box/issues"
+    "url": "https://github.com/samradical/dash-mp4box-sidx/issues"
   },
   "licenses": [
     {
