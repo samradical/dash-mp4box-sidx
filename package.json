@@ -1,0 +1,37 @@
+{
+  "name": "dhas-video-mp4box",
+  "description": "",
+  "homepage": "https://github.com/samradical/dhas-video-mp4box",
+  "author": "Sam Elie <sam@add.dog>",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samradical/dhas-video-mp4box.git",
+    "web": "https://github.com/samradical/dhas-video-mp4box/"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "tmp": "0.0.31",
+    "xml2js": "^0.4.17"
+  },
+  "engines": {
+    "node": ">=6.7.0"
+  },
+  "keywords": [
+    "mp4box",
+    "dash"
+  ],
+  "bugs": {
+    "url": "https://github.com/samradical/dhas-video-mp4box/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ]
+}
